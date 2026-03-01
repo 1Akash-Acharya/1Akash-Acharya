@@ -1,7 +1,9 @@
 # 👋 About Me
 
 <h1 align="center">Hey there 👋, I'm Akash</h1>
-<h3 align="center">Always Learning</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61F6&center=true&vCenter=true&width=500&lines=Learning;B.Tech+Student;" alt="Typing Animation" />
+</p>
 
 ---
 
