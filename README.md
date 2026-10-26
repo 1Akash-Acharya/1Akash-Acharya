@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <sub>BYE</sub>
+  <sub>THANK YOU</sub>
 </p>
