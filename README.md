@@ -3,7 +3,7 @@
 <h1 align="center">A K A S H</h1>
 
 <p align="center">
-  <sub>COMPUTER SCIENCE &nbsp;·&nbsp; TECHNOLOGY &nbsp;·&nbsp; LEARNING</sub>
+  <sub>TECHNOLOGY &nbsp;·&nbsp; LEARNING</sub>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 01 &nbsp; / &nbsp; THE CRAFT
+### 01 &nbsp; / &nbsp; TECHNICAL PROFICIENCY
 
 <p>
   <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python" />
@@ -24,7 +24,7 @@ A growing collection of skills, ideas, and things worth building.
 
 ---
 
-### 02 &nbsp; / &nbsp; CORRESPONDENCE
+### 02 &nbsp; / &nbsp; CONTACT
 
 <p>
   <a href="https://www.linkedin.com/in/1akashacharya">
