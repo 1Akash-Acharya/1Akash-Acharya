@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=FFFFFF" alt="C" />
 </p>
 
-A growing collection of skills, ideas, and things worth building.
 
 ---
 
@@ -39,9 +38,5 @@ A growing collection of skills, ideas, and things worth building.
 ---
 
 <p align="center">
-  <sub>“Excellence is in the details.”</sub>
-</p>
-
-<p align="center">
-  <sub>EST. IN CURIOSITY &nbsp;·&nbsp; BUILT THROUGH CONSISTENCY</sub>
+  <sub>BYE</sub>
 </p>
