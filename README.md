@@ -1,36 +1,36 @@
-# 👋 About Me
+# Hey, I'm Akash 👋
 
-<h1 align="center">Hey there 👋, I'm Akash</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61F6&center=true&vCenter=true&width=500&lines=Learning;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=400&lines=Learning+%26+Building;Exploring+Technology" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <em>Curious mind. Continuous learner.</em>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+<p>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=F59E0B" alt="HTML5" />
+  <img src="https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=93C5FD" alt="C" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/1akashacharya)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:akashacharya815@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/1akashacharya">
+    <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=93C5FD" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akashacharya815@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=FCA5A5" alt="Email" />
+  </a>
+</p>
 
-<!--
-**1Akash-Acharya/1Akash-Acharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>Always learning. Always improving.</sub>
+</p>
